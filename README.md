@@ -2,3 +2,4 @@
 - 👀 I’m interested in Computer Science and Programming.
 - 🌱 I’m currently studying at KTU.
 - ⚡ Fun fact: I started learning programming at 12 grade in highschool and I passed the final highschool exam with 96 points.
+- LeetCode profile: https://leetcode.com/u/xXTheBigGunXx/
